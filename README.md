@@ -9,9 +9,9 @@
 
 ## Tech
 
-**Backend:** Ruby · Ruby on Rails · Sidekiq · Grape · ActiveAdmin · REST APIs  
-**DevOps:** Docker · Heroku · Dokku · AWS S3 · Cloudflare · GitHub Actions · Proxmox · Debian/Ubuntu  
-**Data:** PostgreSQL · MySQL/MariaDB · MongoDB · Elasticsearch · web scraping & data pipelines  
-**Monitoring:** Zabbix · centralized logging · backup automation  
+**Backend:** Ruby · Ruby on Rails · Sidekiq · Devise · Hotwire · RSpec   
+**DevOps:** Docker · Heroku · Dokku · AWS S3 · Cloudflare · GitHub Actions · Debian/Ubuntu  
+**Data:** PostgreSQL · MySQL/MariaDB · Redis · Elasticsearch · web scraping & data pipelines  
+**Monitoring:** Zabbix · Sentry · Backup automation  
 **Frontend:** React · TypeScript · HTML/CSS · jQuery  
 **Other:** Elixir/OTP · Expo/React Native · Python
